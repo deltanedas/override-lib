@@ -4,7 +4,7 @@
 	"description": "Library mod that allows multiple mods to override the same content.",
 	"author": "DeltaNedas",
 	"repo": "DeltaNedas/override-lib",
-	"minGameVersion": "122",
+	"minGameVersion": "121",
 	"version": "1.0.1",
 	"hidden": true
 }
