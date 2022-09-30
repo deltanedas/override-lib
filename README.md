@@ -29,4 +29,4 @@ override.block(Conveyor, {
 
 # Real example
 
-[Logic Debugger](https://github.com/DeltaNedas/ldb)
+[Logic Debugger](https://github.com/deltanedas/ldb)
